@@ -1,0 +1,10 @@
+{
+  "require": {
+    "illuminate/hashing": "^11.35"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
